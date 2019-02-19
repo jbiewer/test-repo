@@ -1,0 +1,12 @@
+sleep
+wake
+eat
+sleep
+wake
+eat
+sleep
+...
+..
+.
+
+:)
